@@ -1,4 +1,4 @@
-<h1 align="center">✨ ¡Hola! Soy Ximena Garía ✨</h1>
+<h1 align="center">✨ ¡Hola! Soy Ximena García ✨</h1>
 <p align="center">
   Programadora apasionada por crear soluciones digitales elegantes y funcionales. 💻💡
 </p>
@@ -29,9 +29,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XimeGarcia27&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimeGarcia27&layout=compact&theme=radical"/>
 </p>
 
 ---
